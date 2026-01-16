@@ -14,7 +14,7 @@ Tässä tehtävässä laadin ISMS-soveltamisalan omalle kotiverkolleni/opiskelul
 | -----------------    | ----------------------             | -------    |  
 |  ASUS-kotireititin   | Custom pöytäkone                   | Github     |
 |  Wi-Fi               | Kannettava tietokone               | Microsoft Authenticator |
-|                      | Puhelin                            | Onedrive   |
+|  RJ-45-verkkokaapeli | Puhelin                            | Onedrive   |
 
 Soveltamisalaani, tässä tapauksessa kotiverkkooni kuuluu:
 
