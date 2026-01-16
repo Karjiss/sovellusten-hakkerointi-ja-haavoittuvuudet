@@ -8,9 +8,9 @@ Tässä tehtävässä laadin ISMS-soveltamisalan omalle kotiverkolleni/opiskelul
 
 ### 1. Mitä soveltamisalaan kuuluu? (Scope)
 
-*Kotiverkko:*
+**In Scope:**
 
-| Perusinfra           | Laitteet kurssiharjoituksia varten | Tiedot/Data |
+| Kotiverkon infra     | Laitteet kurssiharjoituksia varten | Tiedot/Data |
 | -----------------    | ----------------------             | -------    |  
 |  ASUS-kotireititin   | Custom pöytäkone                   | Github     |
 |  Wi-Fi               | Kannettava tietokone               | Microsoft Authenticator |
@@ -28,7 +28,7 @@ Muistiinpanoja, harjoitusaineistoja, sekä kurssimateriaaleja säilytetään pai
 
 Rajasin soveltamisalalta ulos Äly-TV:n ja Chromecastin, sillä ne ovat merkityksettömiä kurssille. Tyttöystävän tietokoneen ja puhelimen rajasin ulos yksityisyyden takia, mutta myös, koska laitteet eivät kuulu minulle, eikä niille ole mitään tarvetta kurssin suorittamista varten. Mobiililaajakaista, sekä laajakaista on myös rajattu pois, sillä hallittavuus laajakaistoissa on palveluntarjoajan päässä. Wi-Fin mahdollisuus kotiverkossa myös tekee mobiiliverkosta tässä tapauksessa (kotona tai koululla) merkityksettömän. Myös Moodle on rajattu pois, sillä en ole vastuussa, tai hallinnassa sen sisällöstä. 
 
-*Out of scope:*
+**Out-of-scope:**
 | Laite/Palvelu | Ulosrajauksen syy|
 | ----- | ------ |
 | Chromecast | Merkityksetön |
@@ -62,3 +62,24 @@ Muita toimittajia ovat:
 | Asus | Kotireitittimen valmistaja |
 | Elisa | Internet-palveluntarjoaja |
 
+**Verkko- ja rajapintakaavio:**
+
+<img width="768" height="626" alt="image" src="https://github.com/user-attachments/assets/86db0623-798b-4e98-9e99-aa8160587ddf" />
+
+### Näyttö (Evidence)
+
+Reitittimen palomuuriasetukset todistavat, että reititin pystyy pitämään uhkia poissa. (Kuva 1.)
+
+<img width="1007" height="865" alt="image" src="https://github.com/user-attachments/assets/62755d5a-5c7e-4876-b118-27ab37443f9f" />
+
+MFA-pyyntö kirjautuessa Moodleen. (Kuva 2.) 
+
+<img width="950" height="626" alt="image" src="https://github.com/user-attachments/assets/2ef31fd0-47ce-4e4e-a23d-fe79e4a326f5" />
+
+Kotiverkon clientit (Poislukien chromecast, joka on harvoin päällä). (Kuva 3.)
+
+<img width="522" height="601" alt="image" src="https://github.com/user-attachments/assets/2b9fea7c-c62a-4873-9c00-7a1722113b0c" />
+
+VMWaren virtuaalikoneet. (Kuva 4.)
+
+<img width="426" height="97" alt="image" src="https://github.com/user-attachments/assets/20e8d0e7-aef1-4d5a-ba83-dcd28f27ba38" />
