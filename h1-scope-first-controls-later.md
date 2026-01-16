@@ -30,7 +30,7 @@ Muistiinpanoja, harjoitusaineistoja, sekä kurssimateriaaleja säilytetään pai
 Rajasin soveltamisalalta ulos Äly-TV:n ja Chromecastin, sillä ne ovat merkityksettömiä kurssille. Tyttöystävän tietokoneen ja puhelimen rajasin ulos yksityisyyden takia, mutta myös, koska laitteet eivät kuulu minulle, eikä niille ole mitään tarvetta kurssin suorittamista varten. Mobiililaajakaista on myös rajattu pois, sillä hallittavuus Internetissä on palveluntarjoajan päässä. Wi-Fin mahdollisuus kotiverkossa myös tekee mobiiliverkosta tässä tapauksessa (kotona tai koululla) merkityksettömän.
 
 | Laite/Palvelu | Ulosrajauksen syy|
-| ----- | ------|
+| ----- | ------ |
 | Chromecast | Merkityksetön |
 | Tyttöystävän PC | Omistajuus |
 | Tyttöystävän puhelin | Omistajuus |
@@ -39,4 +39,23 @@ Rajasin soveltamisalalta ulos Äly-TV:n ja Chromecastin, sillä ne ovat merkityk
 
 ### 3. Rajapinnat
 
-Kotiverkossa käytössä Elisa Internet-palveluntarjoajana.
+Kotiverkossa käytössä Elisa Internet-palveluntarjoajana. Yhteys liikkuu Elisalta reitittimeeni, josta se kulkeutuu Wi-Fin ja Langallisen yhteyden kautta harjoituksille tarkoitettuihin laitteisiin.
+Verkkoyhteys kulkee sisään, sekä ulos. Reitittimen sisäänrakennettu palomuuri suojaa kotiverkkoani uhkilta, sillä tehdasasetuksillakin reitittimessä on palomuuri päällä, sekä se ei vastaa automaattisiin skannauksiin Internetistä.
+
+Pilvipalveluita minun kotiverkkooni tarjoaa:
+
+| Toimittaja | Palvelu |
+| -----|----- |
+| Microsoft Onedrive | Tiedostojen säilytykseen |
+| Github | Kurssiraportteja varten tehtävien raporttien säilytys |
+| VMWare | Virtualisointi-sovellus virtuaalikoneita varten |
+| Moodle | Kurssin materiaalit |
+
+Muita toimittajia ovat:
+|Toimittaja | Palvelu |
+|-----|-----|
+| Apple | Puhelimen valmistaja |
+| Hewlett Packard | Kannettavan tietokoneen valmistaja |
+| Asus | Kotireitittimen valmistaja |
+
+
