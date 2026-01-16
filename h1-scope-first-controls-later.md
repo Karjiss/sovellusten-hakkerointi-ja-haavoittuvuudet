@@ -10,7 +10,7 @@ Tässä tehtävässä laadin ISMS-soveltamisalan omalle kotiverkolleni/opiskelul
 
 *Kotiverkko:*
 
-| Perusinfra           | Laitteet kurssiharjoituksia varten | Tiedot     |
+| Perusinfra           | Laitteet kurssiharjoituksia varten | Tiedot/Data |
 | -----------------    | ----------------------             | -------    |  
 |  ASUS-kotireititin   | Custom pöytäkone                   | Github     |
 |  Wi-Fi               | Kannettava tietokone               | Microsoft Authenticator |
@@ -28,6 +28,7 @@ Muistiinpanoja, harjoitusaineistoja, sekä kurssimateriaaleja säilytetään pai
 
 Rajasin soveltamisalalta ulos Äly-TV:n ja Chromecastin, sillä ne ovat merkityksettömiä kurssille. Tyttöystävän tietokoneen ja puhelimen rajasin ulos yksityisyyden takia, mutta myös, koska laitteet eivät kuulu minulle, eikä niille ole mitään tarvetta kurssin suorittamista varten. Mobiililaajakaista, sekä laajakaista on myös rajattu pois, sillä hallittavuus laajakaistoissa on palveluntarjoajan päässä. Wi-Fin mahdollisuus kotiverkossa myös tekee mobiiliverkosta tässä tapauksessa (kotona tai koululla) merkityksettömän. Myös Moodle on rajattu pois, sillä en ole vastuussa, tai hallinnassa sen sisällöstä. 
 
+*Out of scope:*
 | Laite/Palvelu | Ulosrajauksen syy|
 | ----- | ------ |
 | Chromecast | Merkityksetön |
