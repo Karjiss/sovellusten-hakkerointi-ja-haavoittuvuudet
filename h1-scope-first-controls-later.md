@@ -41,7 +41,7 @@ Rajasin soveltamisalalta ulos Äly-TV:n ja Chromecastin, sillä ne ovat merkityk
 
 ### 3. Rajapinnat
 
-Kotiverkossa käytössä Elisa Internet-palveluntarjoajana. Yhteys liikkuu Elisalta reitittimeeni, josta se kulkeutuu Wi-Fin ja Langallisen yhteyden kautta harjoituksille tarkoitettuihin laitteisiin.
+Kotiverkossa käytössä Elisa Internet-palveluntarjoajana. Yhteys liikkuu Elisalta reitittimeeni, josta se kulkeutuu Wi-Fin ja langallisen yhteyden kautta harjoituksille tarkoitettuihin laitteisiin.
 Verkkoyhteys kulkee sisään, sekä ulos. Reitittimen sisäänrakennettu palomuuri suojaa kotiverkkoani uhkilta, sillä tehdasasetuksillakin reitittimessä on palomuuri päällä, sekä se ei vastaa automaattisiin skannauksiin Internetistä.
 
 Github, Moodle sekä Onedrive ovat kaikki keskeisiä rajapintoja kurssia varten, sillä näissä palveluissa on kaikki tiedot ja materiaali kurssin suorittamista varten.
