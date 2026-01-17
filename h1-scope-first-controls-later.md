@@ -91,7 +91,7 @@ Tässä tehtävässä loin taulukon, joka sitoo opiskelulabrani/kotiverkkoni sid
 
 | Sidosryhmä | Tarve/Vaatimus | ISO27001 -viite | Näyttö |
 | ---------- | -------------- | --------------- | ------ |
-| Oppilaitos |  Lain ja sääntöjen mukaan toimiminen harjoitustyökalujen kanssa. | 4.2 (Sidosryhmien tarpeiden ja odotusten ymmärtäminen) | Hyväksytty kurssin säännöt |
+| Oppilaitos |  Lain ja sääntöjen mukaan toimiminen hyökkäystyökalujen kanssa. | 4.2 (Sidosryhmien tarpeiden ja odotusten ymmärtäminen) | Hyväksytty kurssin säännöt |
 | Oppilaitos |  Harjoitukset on tehtynä ajallaan ja oikein. | 9.1 (Seuranta, mittaaminen, analysointi ja arviointi) | Tämä tehtävä, sekä tulevat tehtävät palautettuna |
 | Minä itse | Pyrin parantamaan labrani turvallisuutta kurssin edetessä. | 9.3 (Johdon katselmus) ja 10.2 (Jatkuva parantaminen) | Reitittimen lokitiedot ja kurssin dokumentaatio |
 
