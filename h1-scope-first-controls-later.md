@@ -87,7 +87,7 @@ VMWaren virtuaalikoneet. (Kuva 4.)
 
 ## b) Sidotaan Standardiin
 
-Tässä tehtävässä loin taulukon, joka sitoo kotiverkkoni sidosryhmät ISO 27001 -standardiin:
+Tässä tehtävässä loin taulukon, joka sitoo opiskelulabrani/kotiverkkoni sidosryhmät ISO 27001 -standardiin:
 
 | Sidosryhmä | Tarve/Vaatimus | ISO27001 -viite | Näyttö |
 | ---------- | -------------- | --------------- | ------ |
