@@ -22,7 +22,7 @@
 - Ffuf käyttää sanalistoja löytääkseen esimerkiksi piilotettuja sivuja palvelimelta.
 - Voit myös tarkentaa hakua suodattamalla ei haluttuja vastauksia pois.
 
-### Portswigger - Access Control
+### Portswigger - Access Control (Portswigger Ltd)
 
 - Pääsynhallinnan (Access Control) suunnittelun päätökset on aina ihmisten tekemiä, joten virheiden mahdollisuus on suuri.
 - Pääsynhallintaa tehtäessä pitäisi aina auditoida ja testata toimivuus kunnolla.
